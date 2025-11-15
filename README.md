@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="100" src="https://giphy.com/stickers/cyber-hacker-encryption-TMVDD8IJ07WLnPEl7A"  />
 </div>
 
 ###
