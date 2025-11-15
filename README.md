@@ -11,7 +11,7 @@
   <a href="https://x.com/Mohamed7Ghalab7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" /></a>
 
-  <a href="#" target="_blank">
+  <a href="https://wa.me/201063393604" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" /></a>
 
   <a href="mailto:mohamedghalab123a@gmail.com">
