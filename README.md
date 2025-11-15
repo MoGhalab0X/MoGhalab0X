@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://giphy.com/stickers/ngomonginuang-transparent-ngomu-ngomu5-GP1TJJSV4Ys1r64q2A"  />
 </div>
 
 ###
