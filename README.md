@@ -29,7 +29,7 @@
 
 ###
 
-<h4 align="left">- 🛡️ I’m working as a Penetration Tester | Bug Hunter<br>- 📚 I'm currently learning Advanced Web Exploitation & Cloud Security<br>- 🐞 I focus on Bug Bounty, Web Pentesting, API Testing, and Recon<br>- ⚡ Passionate about exploit development and real-world security testing</h4>
+<h4 align="left">- 🛡️ I’m working as a Penetration Tester | Bug Hunter<br>- 📚 I'm currently learning Advanced Web Exploitation<br>- 🐞 I focus on Bug Bounty, Web Pentesting, API Testing, and Recon<br>- ⚡ Passionate about exploit development and real-world security testing</h4>
 
 ###
 
