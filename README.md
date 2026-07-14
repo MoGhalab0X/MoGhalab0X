@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Mohamed Ghallab</h1>
+<h1 align="center">Hi </h1>
 
 ###
 
